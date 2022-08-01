@@ -1,0 +1,23 @@
+.qr span{
+    width:10px;
+    height:10px;
+    /* border: 1px solid black; */
+}
+.row{
+    display: flex;
+}
+.one{
+    background-color: black;
+}
+.two{
+    background-color: white;
+}
+.qr{
+    width:500px;
+    height:500px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.empty{
+    background-color: white;
+}
